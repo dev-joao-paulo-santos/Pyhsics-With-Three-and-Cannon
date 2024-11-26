@@ -268,7 +268,7 @@ function animate() {
 
     character.position.copy(characterBody.position);
     character.quaternion.copy(characterBody.quaternion);
-    //ESSE É O ALGORITMO!!!!
+    //POSIÇÕES COPIADAS HAHAHAHA!!!!
     characterBody.position.copy(camera.position);
     characterBody.quaternion.copy(camera.quaternion);
     //
